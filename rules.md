@@ -41,16 +41,10 @@ PocketMine-MP, PHP, Minecraft Bedrock, và các lĩnh vực liên quan
 
 ### 7. Thông tin liên hệ
 
-#### 📞 Hotline
-- **0974504090** - QTV. Nguyễn Thành Nhân (Khuẩn!)
-
-#### 💬 Discord (Ưu tiên)
+#### 💬 Discord
 - `nhanaz` - QTV. Nguyễn Thành Nhân
 - `kaidojoestar272004#7124` - QTV. Trần Tiến Đạt
 - `ngoclam` - KDV. Nguyễn Đức Ngọc Lam
-
-#### 📧 Email
-- **nhanaz@duck.com** - QTV. Nguyễn Thành Nhân
 
 #### 📌 Facebook & Messenger
 - [QTV. Nguyễn Thành Nhân](https://www.facebook.com/nhanhuongloi)
@@ -77,16 +71,8 @@ Tất cả thành viên của cộng đồng cần tuân thủ các nguyên tắ
 
 > 📢 **Thông tin**: Kể từ ngày **28 tháng 11 năm 2025**, nhóm Facebook đã được chuyển từ nội dung riêng tư thành **công khai**.
 
-#### 📌 Đối với bài viết mua/bán
-
-- Cần nêu rõ thông tin về sản phẩm (giá tiền, công dụng, chức năng, hình ảnh, v.v.)
-- **Không bán** plugin đã được chia sẻ miễn phí trên các nền tảng mạng xã hội (MXH)
-- **Chỉ bán** sản phẩm do chính bạn tạo ra hoặc được ủy quyền bán
-- **Không sử dụng** các liên kết kiếm tiền như link1s hoặc các trang tương tự
-
 #### 📌 Quy tắc chung khi đăng bài
 
-- Không thả biểu cảm phẫn nộ với động cơ xấu
 - Không đăng video YouTube về plugin demo nhưng không có liên kết tải xuống
 - Bài viết "bóc phốt" phải đúng sự thật, nếu sai sẽ bị xử lý nghiêm khắc
 - Không chia sẻ plugin miễn phí nhưng yêu cầu tìm mật khẩu trong video
@@ -95,12 +81,20 @@ Tất cả thành viên của cộng đồng cần tuân thủ các nguyên tắ
 
 #### 📌 Quy tắc về bình luận & tương tác
 
+- Không thả biểu cảm phẫn nộ với động cơ xấu
 - Không spam bình luận rác (`"."`, `"tt"`, `"who ask?"`, `"đã xem"`, v.v.)
 - Không sử dụng toàn bộ chữ in hoa khi viết bài hoặc bình luận
 - Không mỉa mai, châm biếm, khen đểu (`"bạn là nhất"`, `"dữ vậy sao?"`, `"procoder"`, v.v.)
 - Không sử dụng emoji khiêu khích (🤨, 😉, 🙄, 😏, 💀, v.v.)
 - Không bình luận vô nghĩa, nếu không thấy bài viết hay, hãy nêu rõ lý do
 - Hãy tử tế và lịch sự khi đặt câu hỏi
+
+#### 📌 Đối với bài viết mua/bán
+
+- Cần nêu rõ thông tin về sản phẩm (giá tiền, công dụng, chức năng, hình ảnh, v.v.)
+- **Không bán** plugin đã được chia sẻ miễn phí trên các nền tảng mạng xã hội (MXH)
+- **Chỉ bán** sản phẩm do chính bạn tạo ra hoặc được ủy quyền bán
+- **Không sử dụng** các liên kết kiếm tiền như link1s hoặc các trang tương tự
 
 #### 📌 Các quy tắc khác
 
